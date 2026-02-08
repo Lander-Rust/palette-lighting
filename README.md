@@ -2,11 +2,15 @@
 
 ![image](./captures/palette-lighting.webp)
 
-A novel experimental renderer custom shader generation, raymarched signed distance fields, PBR lighting, and non-photorealistic palette dithering.
+A novel hardware renderer featuring custom shader generation, raymarched SDF implicits, PBR lighting, and NPR palette dithering.
 
 ## Screenshots
 
-Note: Due to pixel-perfect dithering, any resolution mismatch versus these screenshots (pinch-to-zoom on mobile, mouse wheel zoom on desktop, DPI scale) will result in the loss of intended visual effect.
+**Note:**
+
+Due to pixel-perfect dithering, any resolution mismatch (pinch-to-zoom on mobile, mouse wheel zoom on desktop, DPI scale) will result in the loss of intended visual effect.
+
+View images in full screen for best results.
 
 ### 1200p
 
